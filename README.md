@@ -9,4 +9,4 @@ plot_ss_distributions.m produces figures (1) and (2) in the paper.
 
 IRFs.m produces all impulse response figures used in the paper.
 
-variance_decomp.m generates the variance decomposition used in table (2).
+variance_decomp.m generates the variance decomposition used in table (2) in the paper.
