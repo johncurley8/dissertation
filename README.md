@@ -1,4 +1,4 @@
-### Dynare/MATLAB code for 'Financial Frictions and Heterogenous Firms'
+## Dynare/MATLAB code for 'Financial Frictions and Heterogenous Firms'
 
 run_model.m runs any of the .mod files.
 
